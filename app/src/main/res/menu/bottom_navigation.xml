@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/item1"
+    android:icon="@drawable/s"
+    android:title="near you">
+
+</item>
+    <item android:id="@+id/item2"
+        android:icon="@drawable/search"
+        android:title="search">
+    </item>
+    <item android:id="@+id/item3"
+        android:icon="@drawable/cart"
+        android:title="cart">
+    </item>
+    <item android:id="@+id/item4"
+        android:icon="@drawable/user"
+        android:title="account">
+
+    </item>
+
+
+
+</menu>

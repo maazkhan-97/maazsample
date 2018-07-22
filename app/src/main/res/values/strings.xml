@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">sample</string>
+    <string-array name="data">
+        <item> Makrand Shahnivas</item>
+    </string-array>
+    <string-array name="data1">
+        <item> Relevance</item>
+    </string-array>
+    <string-array name="titles">
+        <item>Burger King</item>
+        <item>McDonalds</item>
+        <item>Elco</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>American,Fast Food\n2 outlets near you\n% 2 Burgers starting at Rs 100</item>
+        <item>Fast food\n2 outlets near you</item>
+        <item>Street food,Chinese, South Indian, Jui..</item>
+    </string-array>
+    <string-array name="rating">
+        <item>★4.3 / 33min / ₹350 for two </item>
+        <item>★4.3 / 30min / ₹500 for two </item>
+        <item>★4.3 / 31min / ₹400 for two</item>
+    </string-array>
+</resources>
